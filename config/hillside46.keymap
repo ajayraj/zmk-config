@@ -107,9 +107,9 @@
  */
 
             bindings = <
-&kp TILDE     &kp NUMBER_1   &kp NUMBER_2  &kp NUMBER_3                 &kp NUMBER_4           &kp NUMBER_5                                         &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0  &trans
-   &trans  &kp EXCLAMATION         &kp AT      &kp HASH                   &kp DOLLAR            &kp PERCENT                                             &kp PLUS  &kp KP_EQUAL        &kp UP        &trans    &bt BT_NXT  &trans
-   &trans        &kp CARET  &kp AMPERSAND      &kp STAR         &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp GRAVE                  &caps_word     &kp MINUS      &kp LEFT      &kp DOWN     &kp RIGHT    &bt BT_PRV  &trans
+&kp TILDE     &kp NUMBER_1   &kp NUMBER_2  &kp NUMBER_3                 &kp NUMBER_4           &kp NUMBER_5                                         &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0      &trans
+   &trans  &kp EXCLAMATION         &kp AT      &kp HASH                   &kp DOLLAR            &kp PERCENT                                             &kp PLUS  &kp KP_EQUAL        &kp UP        &trans    &bt BT_NXT      &trans
+   &trans        &kp CARET  &kp AMPERSAND      &kp STAR         &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp GRAVE                  &caps_word     &kp MINUS      &kp LEFT      &kp DOWN     &kp RIGHT    &bt BT_PRV  &bt BT_CLR
                                                          &mt LCTRL RIGHT_PARENTHESIS                 &trans     &trans  &trans  &trans      &trans        &trans        &trans
             >;
 
